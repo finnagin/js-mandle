@@ -1,3 +1,3 @@
 # js-mandle
 
-A fractal exploration tool in javascript. 
+A fractal exploration tool made with javascript. 
